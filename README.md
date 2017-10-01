@@ -8,9 +8,9 @@ Given a number, find the sum of all the multiples of particular numbers up to bu
 Given a year, report if it is a leap year.
  - [x] Bob
 Bob is a lackadaisical teenager. In conversation, his responses are very limited.
- - [ ] Space Age
+ - [x] Space Age
 Given an age in seconds, calculate how old someone is in terms of a given planet's solar years.
- - [ ] Grade School
+ - [x] Grade School
 Given students' names along with the grade that they are in, create a roster for the school
  - [ ] Accumulate
 Implement the `accumulate` operation, which, given a collection and an operation to perform on each element of the collection, returns a new collection containing the result of applying that operation to each element of the input collection.
