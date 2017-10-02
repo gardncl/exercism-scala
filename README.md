@@ -12,7 +12,7 @@ Bob is a lackadaisical teenager. In conversation, his responses are very limited
 Given an age in seconds, calculate how old someone is in terms of a given planet's solar years.
  - [x] Grade School
 Given students' names along with the grade that they are in, create a roster for the school
- - [ ] Accumulate
+ - [x] Accumulate
 Implement the `accumulate` operation, which, given a collection and an operation to perform on each element of the collection, returns a new collection containing the result of applying that operation to each element of the input collection.
  - [ ] Hamming
 Calculate the Hamming difference between two DNA strands.
